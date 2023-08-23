@@ -17,18 +17,18 @@ High Level Design (HLD) offers a bird's eye view of software architecture. It co
 
 ### Example: Building Facebook
 
-![Diagram1: Server and Users](zImages/IntroductionModule_img/FBServer.png)
+![Diagram1: Server and Users](CodeCraftingLLD/img/IntroductionModule_img/FBServer.png)
 In the context of creating Facebook, can a single server accommodate global user traffic? No, this would lead to bottlenecks.
 
 ### Load Distribution and Balancing
 
-![Diagram2: Load Balancing](zImages/IntroductionModule_img/FBLoadBalancerDB.png)
+![Diagram2: Load Balancing](CodeCraftingLLD/img/IntroductionModule_img/FBLoadBalancerDB.png)
 To handle substantial user loads, load distribution across multiple servers is necessary. Load balancers distribute requests evenly for optimal performance.
 
 ## Software Architecture Layers
 
 (Diagram3: Server and Database)
-![Diagram3: Server and Database](zImages/IntroductionModule_img/FBServer.png)
+![Diagram3: Server and Database](img/IntroductionModule_img/FBServer.png)
 Software doesn't run on a single machine. Applications, servers, and databases may reside on different computers. HLD diagrams provide an overview of how they interconnect.
 
 ## Transition to LLD
