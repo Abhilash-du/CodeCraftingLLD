@@ -17,7 +17,7 @@ High Level Design (HLD) offers a bird's eye view of software architecture. It co
 
 ### Example: Building Facebook
 
-![Diagram1: Server and Users](CodeCraftingLLD/img/IntroductionModule_img/FBServer.png)
+![Diagram1: Server and Users](Introduction/CodeCraftingLLD/img/IntroductionModule_img/FBServer.png)
 In the context of creating Facebook, can a single server accommodate global user traffic? No, this would lead to bottlenecks.
 
 ### Load Distribution and Balancing
