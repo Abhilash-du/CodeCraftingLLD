@@ -17,11 +17,7 @@ Welcome to my LLD learning repository! This space is dedicated to understanding 
   <h2>📚 Modules</h2>
 </div>
 
-- [**🔗 Backend LLD: Intro to LLD and OOP**](/module1)
-- [**🔗 Backend LLD: Townhall**](/module2)
-- [**🔗 Backend LLD: OOP-1: Access Modifiers and Constructors**](/module3)
-- ... (add more modules as you progress)
-
+- [**🔗 Backend LLD: Intro to LLD**](/Introduction)
 ---
 
 <div align="center">
