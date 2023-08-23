@@ -9,7 +9,6 @@ Welcome to the "Introduction to Low Level Design (LLD)" module. This module prov
 - [Software Architecture Layers](#software-architecture-layers)
 - [Transition to LLD](#transition-to-lld)
 - [Importance of LLD](#importance-of-lld)
-- ... (add more sections as needed)
 
 ## HLD Overview
 
