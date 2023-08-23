@@ -21,17 +21,14 @@ High Level Design (HLD) offers a bird's eye view of software architecture. It co
 In the context of creating Facebook, can a single server accommodate global user traffic? No, this would lead to bottlenecks.
 
 ### Load Distribution and Balancing
-
+To handle substantial user loads, load distribution across multiple servers is necessary. Load balancers distribute requests evenly for optimal performance.
 ![Diagram2: Load Balancing](../img/IntroductionModule_img/FBLoadBalancer.png)
 
-To handle substantial user loads, load distribution across multiple servers is necessary. Load balancers distribute requests evenly for optimal performance.
 
 ## Software Architecture Layers
-
-(Diagram3: Server and Database)
+Software doesn't run on a single machine. Applications, servers, and databases may reside on different computers. HLD diagrams provide an overview of how they interconnect.
 ![Diagram3: Server and Database](../img/IntroductionModule_img/FBLoadBalancerDB.png)
 
-Software doesn't run on a single machine. Applications, servers, and databases may reside on different computers. HLD diagrams provide an overview of how they interconnect.
 
 ## Transition to LLD
 
