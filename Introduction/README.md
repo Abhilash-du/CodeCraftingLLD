@@ -22,7 +22,7 @@ In the context of creating Facebook, can a single server accommodate global user
 
 ### Load Distribution and Balancing
 
-![Diagram2: Load Balancing](../img/IntroductionModule_img/FBLoadBalancerDB.png)
+![Diagram2: Load Balancing](../img/IntroductionModule_img/FBLoadBalancer.png)
 
 To handle substantial user loads, load distribution across multiple servers is necessary. Load balancers distribute requests evenly for optimal performance.
 
