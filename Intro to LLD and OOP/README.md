@@ -80,7 +80,7 @@ Encapsulation is achieved through classes and objects. A class encapsulates attr
 ### Applying Encapsulation with Classes and Objects 💡
 
 Imagine we have a `Student` class encapsulating student attributes and behaviors. One of these behaviors could be a method called `printStudent()` that displays student information.
-![Print Method Diagram](../img/Intro to LLD and OOP/StudentClass.png)
+![Print Method Diagram](../img/IntrotoLLDandOOP/StudentClass.png)
 #### Utilizing Encapsulation for Printing Students 📄
 
 Now, let's consider how encapsulation comes into play when invoking the `printStudent()` method:
@@ -89,7 +89,7 @@ Now, let's consider how encapsulation comes into play when invoking the `printSt
 - This object serves as a container holding all the necessary data about the student.
 - When invoking the `printStudent()` method, we pass this object as a parameter.
 - This practice simplifies the method call and promotes code organization and clarity.
-- ![Print Method Diagram](../img/Intro to LLD and OOP/StudentObject.png) 
+- ![Print Method Diagram](../img/IntrotoLLDandOOP/StudentObject.png) 
 - - An image depicting the process of calling the `printStudent()` method using a Student object.
 
 #### Benefits of Encapsulation in Action 🏆
@@ -100,7 +100,7 @@ Now, let's consider how encapsulation comes into play when invoking the `printSt
 
 In summary, encapsulation is like creating a guarded vault for your entity, preserving its essence and ensuring controlled access to its vital aspects.
 
-- ![Encapsulation Diagram](../img/Intro to LLD and OOP/Encapsulation.png)
+- ![Encapsulation Diagram](../img/IntrotoLLDandOOP/Encapsulation.png)
 ### Classes and Objects: Blueprint and Instances 🏗️
 
 In Object-Oriented Programming (OOP), classes and objects are essential concepts that enable the creation of structured and organized code.
@@ -115,7 +115,7 @@ In Object-Oriented Programming (OOP), classes and objects are essential concepts
 - **Class in OOP**: Similarly, a class is a blueprint for an idea. Each idea in your software system will have attributes and behaviors associated with it.
     - Consider a `Student` class. It encapsulates everything that every student will have: attributes like name, age, and behaviors like attending classes and solving questions.
     - The `Student` class encapsulates the essential attributes and behaviors that define a student's role in your application.
-    - ![Student Class Diagram](../img/Intro to LLD and OOP/StudentClassExtended.png) - A visual representation of the `Student` class with attributes and behaviors.
+    - ![Student Class Diagram](../img/IntrotoLLDandOOP/StudentClassExtended.png) - A visual representation of the `Student` class with attributes and behaviors.
 
 - **Memory Usage**: Classes themselves don't consume memory. They are definitions, instructions for creating objects. If you don't create any instances (objects) of a class, it won't use any memory.
 
@@ -127,7 +127,7 @@ In Object-Oriented Programming (OOP), classes and objects are essential concepts
 - **Real-world Analogy**: Think of a class as a cookie cutter and objects as the actual cookies. Each cookie has the same shape and structure, but they can have different flavors and decorations.
 - **Memory Usage**: Objects do occupy memory in your computer's RAM. They hold the specific data associated with their attributes.
 - **Isolation and Independence**: Each object is isolated from other objects. Changes made to one object don't affect others.
-- ![Objects Diagram](../img/Intro to LLD and OOP/Objects.png) 
+- ![Objects Diagram](../img/IntrotoLLDandOOP/Objects.png) 
 -  An illustrative diagram showing multiple objects (students) with distinct attributes encapsulated within each.
 
 ### Conclusion 🌟
