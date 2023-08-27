@@ -18,7 +18,7 @@ Welcome to my LLD learning repository! This space is dedicated to understanding 
 </div>
 
 - [**🔗 Backend LLD: Intro to LLD**](/Day1_Introduction)
-- [**🔗 Backend LLD: Intro to LLD and OOP**](/Day2_Intro_To_LLD_and_OOP)
+- [**🔗 Backend LLD: Intro to LLD and OOP**](/Day2_IntroToLLDandOOP)
 - [**🔗 Backend LLD: Access Modifiers**](/Day3_AccessModifiers)
 ---
 
