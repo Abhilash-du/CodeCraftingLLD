@@ -1,2 +1,2 @@
-public enum DatabaseType {
+public class DatabaseType {
 }
