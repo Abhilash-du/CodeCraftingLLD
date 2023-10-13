@@ -2,8 +2,8 @@ package com.example.parkinglot.models;
 
 public class ParkingSpot extends BaseModel{
 
-    private Integer spotNumber;
-    private Integer floorNumber;
+    private Long spotNumber;
+    private Long floorNumber;
     private VehicleType vehicleType;
     private SpotStatus spotStatus;
 }
