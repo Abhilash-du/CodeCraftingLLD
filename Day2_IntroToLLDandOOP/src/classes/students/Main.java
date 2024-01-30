@@ -1,4 +1,5 @@
-package classes.students;
+package Day2_IntroToLLDandOOP.src.classes.students;
+
 
 public class Main {
 

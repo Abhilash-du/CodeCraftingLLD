@@ -1,7 +1,9 @@
 package com.example.parkinglot.models;
 
-import java.util.Date;
+import lombok.experimental.SuperBuilder;
 
+import java.util.Date;
+@SuperBuilder
 public class Ticket extends BaseModel{
 
     private Long vehicleId;
