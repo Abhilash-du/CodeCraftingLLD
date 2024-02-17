@@ -1,4 +1,4 @@
-package example.accessmodifiers1;
+package Day3_AccessModifiersAndConstructors.src.example.accessmodifiers1;
 
 public class Main {
 

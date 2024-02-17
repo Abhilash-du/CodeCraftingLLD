@@ -4,12 +4,14 @@ import com.example.parkinglot.models.ParkingLot;
 import com.example.parkinglot.models.ParkingSpot;
 import com.example.parkinglot.repositories.ParkingLotRepository;
 
+import java.util.List;
+
 public class ParkingLotService {
 
     private ParkingLotRepository repository;
-    private ParkingSpotService parkingSpotService;
+    private com.example.parkinglot.service.ParkingSpotService parkingSpotService;
 
     public ParkingLot create(ParkingLot lot){
-        List<ParkingSpot> parkingSpo
+        List<ParkingSpot> parkingSpotList;
     }
 }

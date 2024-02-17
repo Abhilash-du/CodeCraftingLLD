@@ -1,5 +1,5 @@
 // File: Student.java in package example.accessmodifiers1
-package example.accessmodifiers1;
+package Day3_AccessModifiersAndConstructors.src.example.accessmodifiers1;
 
 public class Student {
     private String name;
